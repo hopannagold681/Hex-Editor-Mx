@@ -205,4 +205,4 @@ This repository serves as the official landing page for Hex Editor MX. The softw
 **Get the most recent version of Hex Editor MX today!**
 
 ---
-**Last updated:** 2026-11-13 18:15:41 UTC
+**Last updated:** 2026-11-13 23:59:53 UTC
